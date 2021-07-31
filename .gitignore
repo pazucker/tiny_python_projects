@@ -10,6 +10,7 @@ tex2pdf*
 .log
 .coverage
 .idea
+.venv
 .vscode
 02_crowsnest/crowsnest.py
 03_picnic/picnic.py
